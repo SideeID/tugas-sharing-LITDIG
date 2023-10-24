@@ -1,6 +1,6 @@
 <?php include '_header.php'; ?>
 <!-- content -->
-<div class="container mt-5">
+<div class="container mt-4">
   <div class="card im-box">
     <h5 class="card-header">Data Mahasiswa</h5>
     <div class="card-body">
